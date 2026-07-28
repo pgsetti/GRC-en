@@ -1,0 +1,139 @@
+O GRC para cibersegurança muitas vezes pode parecer complexo, mas está longe disso.
+
+Nesta série de posts, vamos entender tudo o que envolve esse universo, desde a criação de políticas e ferramentas recomendadas, até os processos de auditoria e tudo o que você precisa saber para dominar o GRC.
+
+Mas, por que isso importa?
+GRC significa Governance, Risk and Compliance, que traduzimos como Governança, Riscos e Conformidade.
+
+(Um bom acrônimo funciona até mesmo em duas línguas.)
+
+Vamos entender cada um desses termos:
+
+Governança: Essa é a base de todo o processo de GRC. A governança é o que define os processos e políticas, assim como o uso de recursos, a organização e a estrutura de tudo que envolve a gestão. É a estrela-guia do GRC.
+
+Risco: Essa palavra já é mais comum no nosso dia a dia, risco é, bem… risco. O risco de algo acontecer, o tratamento desse risco, o que as áreas estão dispostas a fazer (ou não fazer), o que é esperado e o que vamos enfrentar amanhã. Como já estamos mais acostumados com o conceito, é relativamente fácil trazê-lo para o contexto da cibersegurança. Mas saiba que essa parte também envolve diversos processos mais especializados, que vamos explorar ao longo desta série. O risco possui várias etapas no seu fluxo, envolvendo identificação, classificação, tratamento e resposta.
+
+Compliance: Por fim, mas não menos importante, compliance é um termo que auditores adoram. Ele está diretamente ligado ao conceito de estar “em conformidade”. Ou seja: considerando todos os processos, riscos, pessoas, sistemas, softwares, hardwares, políticas e ações… estamos fazendo tudo da forma correta? O que precisamos ajustar para ficarmos “nos conformes”? Compliance é, basicamente, o controle dos dois pilares anteriores. É por meio dele que sabemos se estamos cumprindo corretamente nossas políticas (governança) e se tratamos adequadamente os perigos (risco). O compliance determina se você está ou não dentro do esperado, mas também depende da governança, dos riscos identificados, das normas aplicáveis e da legislação vigente.
+
+Agora que compreendemos o que cada um desses pontos representa, vamos entender por que isso tudo é tão importante. Um processo sólido de GRC é fundamental hoje em dia para garantir uma boa postura de segurança. E quanto maior for a empresa, mais robusto e maduro precisa ser o seu GRC.
+
+Sem ele, todo o seu ambiente, financeiro, cibersegurança, TI, backoffice, e qualquer outra função que você imaginar, fica isolado, mal comunicado e exposto ao improviso. E quando falamos de cibersegurança (nosso foco aqui), improviso é sinônimo de morte para a continuidade do negócio. (E sim, vamos falar sobre isso também.)
+
+Vamos pensar no seguinte cenário: Você acabou de descobrir que um dos computadores da área de TI foi invadido. O motivo? Um usuário admin com credenciais fracas.
+
+A partir daí, o invasor pode fazer o que quiser e, hoje em dia, os cenários mais comuns envolvem roubo de dados e ransomware. Agora, cabe a você (e ao time inteiro) identificar o que está acontecendo, tratar o incidente, conter o ataque e revisar os processos.
+
+E eu te digo com toda certeza: depender do improviso nessas horas é o mesmo que não fazer nada. Esses são momentos de alto estresse, caos, e onde cada segundo conta.
+
+Vamos para uma analogia? Imagine um médico que conhece toda a teoria, mas nunca realizou uma cirurgia, nunca assistiu uma de perto, e não tem nenhuma prática real. Você deixaria esse médico operar seu coração?
+
+Eu duvido! Eu não deixaria! Ou então pense em um policial que nunca participou de treinamentos ou simulações táticas e agora precisa prender o líder do maior cartel do país.
+
+Esses exemplos servem para provocar uma (ou duas) reflexões importantes:
+
+GRC é fundamental. Prática leva à perfeição, e os guardrails existem para evitar que a gente caia do precipício.
+Políticas e processos vazios são o mesmo que nada. Não passam de papel.
+Esse segundo ponto é crítico. Hoje em dia, muitas análises de GRC revelam que a maioria dos processos existem apenas para “cumprir tabela” na auditoria.
+
+E não me entenda mal, pode ser que isso seja tudo o que você esteja buscando no momento.
+
+Mas eu te garanto: estar em conformidade com a auditoria está muito longe de representar uma boa postura de segurança. Papel não detém ataques.
+
+Mas a boa notícia é: vamos aprender como usar esses papéis para a gestão e seu time ao máximo.
+
+O que é isso afinal?
+Cibersegurança é um tema extremamente abrangente e extenso a ponto de eu afirmar com tranquilidade: existe um papel próximo à cibersegurança para praticamente qualquer habilidade.
+
+O GRC é um desses grandes capítulos. Mas, diferentemente da parte técnica que normalmente associamos à segurança, o GRC é muito mais voltado para o lado administrativo.
+
+De todos os assuntos dentro da cibersegurança, esse é provavelmente o mais odiado por muitos e com razão!
+
+A forma como criamos e aplicamos esses documentos hoje é maçante, desinteressante, ignorável, e muitas vezes parece uma tarefa sem fim e sem propósito.
+
+Mas o que poucos percebem é que isso tudo esconde um universo extremamente relevante e necessário.
+
+(Eu sei… não parece!)
+
+O conceito de GRC vai muito além da cibersegurança. Apesar de ser amplamente utilizado nesse contexto hoje em dia, o GRC também é essencial para áreas como finanças, continuidade de negócios, controles internos e auditoria e todos os outros.
+
+Todos esses setores conhecem bem o processo, embora o enfoque mude um pouco entre eles.
+
+Nesta série, vamos abordar o GRC com foco em cibersegurança, mesmo que alguns conceitos se cruzem com outras áreas.
+
+O termo GRC surgiu oficialmente com o trabalho da Open Compliance and Ethics Group (OCEG), lá em 2002.
+
+Eles enxergaram a necessidade de integrar os três grandes pilares da gestão moderna: Governança, Riscos e Conformidade.
+
+Apesar do termo já existir informalmente, a primeira publicação oficial sobre GRC só veio em 2007.
+
+Mas no fim do dia… o que é GRC, na prática? GRC é um processo essencial para a gestão e administração de qualquer área.
+
+A integração entre Governança (tomada de decisão), Risco (consequência) e Compliance (normas e obrigações) permite uma visão estratégica e abrangente de qualquer operação. Vamos usar um exemplo simples pra entender o conceito:
+
+O que faz você não sair por aí roubando tudo que vê pela frente?
+
+Ou o que te faz ir à academia algumas vezes por semana?
+
+Você está tomando decisões conscientes baseadas em valores e objetivos (governança), avaliando os riscos dessas decisões (um infarto aos 50, por exemplo), e respeitando as regras do ambiente onde está (como não tirar alguém do leg press na porrada, ou pelo menos eu espero que não!).
+
+Esse exemplo pode parecer bobo, mas ele ilustra o que eu quero dizer:
+
+GRC já faz parte da sua vida, queira você ou não.
+
+Filosofias inteiras já discutiram esses mesmos conceitos aplicados à vida cotidiana. Afinal, qual a diferença entre uma criança e um adulto, se não a habilidade de pesar decisões, consequências, impactos… e, claro, pagar boletos? (Essa parte conta também.)
+
+Agora que o conceito está mais claro, é hora de entendermos como esse processo funciona na prática.
+
+Como isso funciona na prática?
+“Uma longa viagem começa com um único passo.”
+
+Lao-Tsé
+Caso você esteja lendo esse post porque deseja começar, entender, criar ou estudar o processo de GRC, saiba de uma coisa: cada passo conta, não tente abraçar tudo de uma vez. GRC é uma área enorme, cheia de termos técnicos, frases corporativas (se você ainda não sabe como elas são, pode ter certeza de que vai descobrir, ninguém usa a palavra tempestivamente em contextos não corporativos), e documentos… centenas deles.
+
+Mas não se assuste. Nesta série, vamos entender tudo o que eu acho importante, para que, no final, você consiga atuar nessa área com mais categoria ou, pelo menos, construir aquela documentação que a auditoria tanto cobra.
+
+O primeiro passo é entender o seu papel. Mas como assim? GRC muda drasticamente dependendo do contexto. Você não pode aplicar os mesmos documentos que uma empresa de software utiliza em um banco. Parece óbvio, né? Mas a quantidade de processos que eu já vi sendo aplicados com base em templates prontos e genéricos é enorme. E eu te dou a dica: não faça isso! Você só tem dois desfechos possíveis nesse cenário:
+
+Aplica uma documentação muito restrita ou complexa e acaba dando um tiro no próprio pé
+Cria algo genérico demais, que não serve para absolutamente nada
+Use templates, mas só como um norte. Você precisa criar cada termo, política e processo com sentido real para a sua organização.
+
+Voltando ao seu papel, aqui vão algumas perguntas que vão te ajudar:
+
+Qual é a sua área de atuação? Áreas diferentes exigem documentações diferentes. Ex.: Desenvolvimento precisa de uma política de desenvolvimento seguro.
+Quais são os órgãos reguladores da sua atuação? Quem fiscaliza o que você faz? Existe alguma entidade específica? Ex.: Banco Central para instituições financeiras.
+Existem leis específicas que regem o que você faz? Alguma norma ou legislação determina o que pode ou não pode ser feito? Ex.: LGPD.
+Quais são as boas práticas para os seus processos mais comuns? O que é amplamente recomendado na sua área? Ex.: Todo novo colaborador deve assinar um termo de confidencialidade.
+Qual o tamanho da empresa? Esse ponto é fundamental e frequentemente ignorado (ou usado como desculpa). O tamanho da sua empresa determina quando um processo pode ser “demais” para a estrutura atual. Mas cuidado: “isso não se aplica a mim” pode ser uma armadilha.
+Todas essas questões são fundamentais para criar um bom processo de GRC. E, claro, muitas outras variáveis podem entrar na conta. Como eu disse antes: o processo é complexo, mas os conceitos são simples e você vai aprender com facilidade. Primeiro, isolamos os pontos. Depois, juntamos tudo.
+
+Com as respostas em mãos e um objetivo claro, seja auditoria, conformidade com normas ou, o melhor cenário, uma gestão inteligente dos seus recursos, é hora de começar o processo propriamente dito.
+
+Nós vamos ver cada tipo de documentação no decorrer desta série, mas para te dar uma ideia do caminho, aqui vai um resumo: Provavelmente, o primeiro passo será criar uma Política de Segurança da Informação e uma Política de Segurança Cibernética. Essas duas são as mais importantes, pois servem como guia para todas as outras e dificilmente você vai escapar delas, especialmente no mundo atual. Com essas duas em mãos, já é possível entender quais são os pontos faltantes.
+
+Mas até aqui estamos falando só de políticas. Existem também os processos e aqui vão algumas perguntas para começar a pensar:
+
+Quais processos são críticos?
+O que torna um processo crítico para a operação?
+Ele depende de terceiros ou fornecedores externos?
+Depende de algum sistema ou software? E de hardware?
+Use a mentalidade: “qual ação ou processo, se interrompido, vai causar dor de cabeça?”
+Quais riscos estão associados a esse processo (de forma breve)?
+Perceba que o raciocínio é o mesmo que usamos antes: Antes de iniciar qualquer documentação, entenda o cenário em detalhes. Isso é fundamental para construir algo bem desenhado.
+
+Com essas respostas, comece o mapeamento dos processos e defina:
+
+Quais pontos são fundamentais
+Quais são opcionais
+Quais etapas podem ser melhoradas
+Exemplo:
+
+Processo de contratação de um novo colaborador. O que não pode faltar nesse processo? Ele precisa assinar um termo de confidencialidade? Passar por um treinamento? Assinar um contrato de trabalho? Receber os cartões? Fazer o crachá?
+
+Esse tipo de mapeamento traz também uma visão de otimização, e esse é um dos grandes benefícios do GRC: ao documentar bem os processos, você enxerga falhas e oportunidades de melhoria que antes passavam despercebidas.
+
+Agora que entendemos o básico , é hora de começarmos um processo do zero.
+
+Na próxima publicação, vamos ver como iniciar o processo de GRC em detalhes e, melhor ainda, como integrar isso ao seu dia a dia. A vantagem? Você vai poder seguir cada postagem e montar seu processo junto comigo.
+
+Aposto que, se você colocar em prática cada passo, vai sair com um processo super bem estruturado. E se você for estudante da área, melhor ainda: só se aprende fazendo. Quer entender como funciona uma Política de Inventário de Ativos de TI? Então escreva uma do zero.
